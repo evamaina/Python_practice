@@ -1,0 +1,9 @@
+{
+  "test_palindrome.py::TestPalindrome::test_disregards_caps": true,
+  "test_palindrome.py::TestPalindrome::test_disregards_punctuation": true,
+  "test_palindrome.py::TestPalindrome::test_disregards_whitespace": true,
+  "test_palindrome.py::TestPalindrome::test_empty_input": true,
+  "test_palindrome.py::TestPalindrome::test_identifies_non_palindromes": true,
+  "test_palindrome.py::TestPalindrome::test_identifies_palindrome_correctly": true,
+  "test_palindrome.py::TestPalindrome::test_records_history": true
+}

@@ -1,0 +1,17 @@
+[
+  "test_age.py::TestAge::test_correct_age_is_calculated",
+  "test_is_palindrome.py::TestPalindrome::test_digit_string_input",
+  "test_is_palindrome.py::TestPalindrome::test_empty_string_input",
+  "test_is_palindrome.py::TestPalindrome::test_is_not_palindrome",
+  "test_is_palindrome.py::TestPalindrome::test_is_palindrome",
+  "test_is_palindrome.py::TestPalindrome::test_is_palindrome_with_whitespace",
+  "test_is_palindrome.py::TestPalindrome::test_records_last_5_entries",
+  "test_is_palindrome.py::TestPalindrome::test_records_less_than_5_entries_returns_all",
+  "test_is_palindrome.py::TestPalindrome::test_white_space_string_input",
+  "test_pig_latin.py::TestPigLatin::test_empty_string_input",
+  "test_pig_latin.py::TestPigLatin::test_is_alpha_string_input",
+  "test_pig_latin.py::TestPigLatin::test_starts_with_a_vowel",
+  "test_pig_latin.py::TestPigLatin::test_starts_with_consonant",
+  "test_pig_latin.py::TestPigLatin::test_starts_with_group_of_consonants",
+  "test_pig_latin.py::TestPigLatin::test_white_space_string_input"
+]
